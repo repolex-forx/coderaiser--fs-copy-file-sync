@@ -1,0 +1,11 @@
+{
+  "org": "coderaiser",
+  "repo": "fs-copy-file-sync",
+  "versions": [
+    {
+      "commit": "99bc169db74ac2b165c4f19cb3a6013d33797451",
+      "tag": "v1.1.1",
+      "parsed_at": "2026-11-21T23:20:17.690282+00:00"
+    }
+  ]
+}
