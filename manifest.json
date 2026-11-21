@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "coderaiser",
+  "repo": "fs-copy-file-sync",
+  "versions": [
+    {
+      "commit": "99bc169db74ac2b165c4f19cb3a6013d33797451",
+      "parsed_at": "2026-11-21T23:13:12.128675+00:00",
+      "tag": "v1.1.1",
+      "filetree": "filetree/99bc169db74ac2b165c4f19cb3a6013d33797451.nq.gz",
+      "blobs": [
+        "blob/71ef0e9631fd27a63d24d6b32a76b6bbcfe4101c.nq.gz",
+        "blob/6eb8370b0d8310b0e3a6b5069380d738e3218226.nq.gz",
+        "blob/e5b60d3cbfcc812ce5135393d78a5a51a2a33129.nq.gz",
+        "blob/eaec9a10f8ba967fcd90b3bf0332a5b7d025ce1e.nq.gz",
+        "blob/7fdbf74529a5d3cf4f50653c267a62635dc8b9b9.nq.gz",
+        "blob/ff2aabb09a3a9f890549ef67d3efba609becfbd3.nq.gz",
+        "blob/ce013625030ba8dba906f756967f9e9ca394464a.nq.gz",
+        "blob/1ab82a482247e4510c12e2b90f4af041f7431b9e.nq.gz",
+        "blob/020324da70252a0abe6347cacb2be75bd02caf1f.nq.gz",
+        "blob/c2c2daf476506c3252b54edc7b316c0c074e168f.nq.gz",
+        "blob/44ec4e3d7eb3766ace3bf52e5ddd517f35e45fdc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
