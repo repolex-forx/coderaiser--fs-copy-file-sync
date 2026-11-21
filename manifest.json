@@ -23,6 +23,128 @@
       ],
       "ast": [
         "aggregate/ast/99bc169db74ac2b165c4f19cb3a6013d33797451/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/99bc169db74ac2b165c4f19cb3a6013d33797451.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "babel-eslint",
+          "ecosystem": "NPM",
+          "version": "8.0.0",
+          "githubOrg": "babel",
+          "githubRepo": "babel-eslint",
+          "githubCommit": "905887c4fe4e5f4b56e34acb526e80aad83880cb",
+          "githubTag": "v8.0.0",
+          "githubUrl": "git+https://github.com/babel/babel-eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "buble",
+          "ecosystem": "NPM",
+          "version": "0.19.2",
+          "githubOrg": "bublejs",
+          "githubRepo": "buble",
+          "githubCommit": "c6578f3a05d53a26c436e3f474ea71d375299f62",
+          "githubTag": "v0.19.2",
+          "githubUrl": "git+https://github.com/bublejs/buble.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "coveralls",
+          "ecosystem": "NPM",
+          "version": "3.0.0",
+          "githubOrg": "nickmerwin",
+          "githubRepo": "node-coveralls",
+          "githubUrl": "git://github.com/nickmerwin/node-coveralls.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "4.0.0",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "c61194f9440981d6c858525273e5c469bdd98290",
+          "githubTag": "v4.0.0",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "nodemon",
+          "ecosystem": "NPM",
+          "version": "1.11.0",
+          "githubOrg": "remy",
+          "githubRepo": "nodemon",
+          "githubCommit": "2cd85b1f609e9749d19afcdbd71368e6ab063f9d",
+          "githubTag": "v1.11.0",
+          "githubUrl": "git+https://github.com/remy/nodemon.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "nyc",
+          "ecosystem": "NPM",
+          "version": "11.0.2",
+          "githubOrg": "istanbuljs",
+          "githubRepo": "nyc",
+          "githubCommit": "e4eff12ddf52e856eab0a0528781bf9f54d27f8c",
+          "githubTag": "v11.0.2",
+          "githubUrl": "git+ssh://git@github.com/istanbuljs/nyc.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "pullout",
+          "ecosystem": "NPM",
+          "version": "1.0.1",
+          "githubOrg": "coderaiser",
+          "githubRepo": "pullout",
+          "githubCommit": "522dddd19588adaadbb38dccf5c342d24c55cd9d",
+          "githubTag": "v1.0.1",
+          "githubUrl": "git://github.com/coderaiser/pullout.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "redrun",
+          "ecosystem": "NPM",
+          "version": "6.0.0",
+          "githubOrg": "coderaiser",
+          "githubRepo": "redrun",
+          "githubCommit": "6e4de7b8dd9c81c0d63ba1e5649fa43c6b93382b",
+          "githubTag": "v6.0.0",
+          "githubUrl": "git+https://github.com/coderaiser/redrun.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "rimraf",
+          "ecosystem": "NPM",
+          "version": "2.6.2",
+          "githubOrg": "isaacs",
+          "githubRepo": "rimraf",
+          "githubCommit": "79b933fb362b2c51bedfa448be848e1d7ed32d7e",
+          "githubTag": "v2.6.2",
+          "githubUrl": "git+ssh://git@github.com/isaacs/rimraf.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tape",
+          "ecosystem": "NPM",
+          "version": "4.2.0",
+          "githubOrg": "tape-testing",
+          "githubRepo": "tape",
+          "githubCommit": "aadcf4a95ed6810fa404dbe01f3b745252d4f12e",
+          "githubTag": "v4.2.0",
+          "githubUrl": "git://github.com/tape-testing/tape.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "try-catch",
+          "ecosystem": "NPM",
+          "version": "2.0.0",
+          "githubOrg": "coderaiser",
+          "githubRepo": "try-catch",
+          "githubCommit": "f083e63116b98500018fba1d2fcb59eebe88076c",
+          "githubTag": "v2.0.0",
+          "githubUrl": "git+https://github.com/coderaiser/try-catch.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
